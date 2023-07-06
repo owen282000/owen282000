@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
 <h3 align="center">A (Linux) DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **Kubernetes / NodeJS**
+- 🌱 I’m currently learning **Kubernetes / Terraform**
 
-- 💬 Ask me about **Ansible, Docker, Wordpress and PHP**
-
-- 📫 How to reach me **owenvogelaar@hotmail.com**
+- 💬 Ask me about **Ansible, K8s, Wordpress and PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,6 +34,9 @@
   </a>
   <a href="https://badges.suse.com/5c85e08e-e8dc-442b-9294-2835162d3992#gs.05ttik" target="_blank" rel="noreferrer">
     <img src="https://templates.images.credential.net/16745082569063324999142236329766.png" alt="SCARA" width="150" height="150"/> 
+  </a>
+  <a href="https://badges.suse.com/61d72677-af64-43b0-8929-d560d85ed8e1" target="_blank" rel="noreferrer">
+    <img src="https://templates.images.credential.net/16745084822332974546230583728873.png" alt="SCDSRKD" width="150" height="150"/> 
   </a>
 </p>
 
