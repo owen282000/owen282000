@@ -42,7 +42,7 @@
     <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="150" height="150"/> 
   </a>
   <a href="https://www.credly.com/badges/e10f98c5-ef97-4d3d-a57c-907c82d0dbe3" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKAD" width="150" height="150"/> 
+    <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD" width="150" height="150"/> 
   </a>
   <a href="https://www.credly.com/badges/4ddb3e09-a2df-413d-8a31-d955219c41de" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ900" width="150" height="150"/> 
