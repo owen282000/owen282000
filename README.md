@@ -21,13 +21,13 @@
     <img src="https://images.credly.com/size/340x340/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="RHCE" width="150" height="150"/>
   </a>
   <a href="https://rhtapps.redhat.com/verify?certId=200-003-739" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/110x110/images/fdac57a1-cecc-4790-89da-ac5e6121fef1/image.png" alt="RHCA" width="150" height="150"/>
+    <img src="https://images.credly.com/size/340x340/images/fdac57a1-cecc-4790-89da-ac5e6121fef1/image.png" alt="RHCA" width="150" height="150"/>
   </a>
   <a href="https://rhtapps.redhat.com/verify?certId=200-003-739" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/340x340/images/1dd8824f-d6b6-4967-906a-7bd3c0063fae/image.png" alt="RHCSCK" width="150" height="150"/>
   </a>
   <a href="https://rhtapps.redhat.com/verify?certId=200-003-739" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/110x110/images/272f17b3-2eb9-4e5f-aa3c-66c6b137fb27/image.png" alt="RHCSC" width="150" height="150"/>
+    <img src="https://images.credly.com/size/340x340/images/272f17b3-2eb9-4e5f-aa3c-66c6b137fb27/image.png" alt="RHCSC" width="150" height="150"/>
   </a>
   <a href="https://rhtapps.redhat.com/verify?certId=200-003-739" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/340x340/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png" alt="RHCOA" width="150" height="150"/>
@@ -36,10 +36,10 @@
     <img src="https://images.credly.com/size/340x340/images/2d8f3af9-dd48-41b3-8bf7-8f50be139986/image.png" alt="RHCSMAAAP" width="150" height="150"/>
   </a>
   <a href="https://rhtapps.redhat.com/verify?certId=200-003-739" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/110x110/images/5bf013c6-fcb7-40cf-94d8-79a2320fee5f/image.png" alt="RHCSDAAAP" width="150" height="150"/>
+    <img src="https://images.credly.com/size/340x340/images/5bf013c6-fcb7-40cf-94d8-79a2320fee5f/image.png" alt="RHCSDAAAP" width="150" height="150"/>
   </a>
   <a href="https://www.credly.com/badges/ba616c76-c16d-4638-9b76-dceb74eedd23" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="150" height="150"/> 
+    <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="150" height="150"/> 
   </a>
   <a href="https://www.credly.com/badges/e10f98c5-ef97-4d3d-a57c-907c82d0dbe3" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD" width="150" height="150"/> 
