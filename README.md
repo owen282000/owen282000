@@ -54,7 +54,7 @@
     <img src="https://templates.images.credential.net/16745084822332974546230583728873.png" alt="SCDSRKD" width="150" height="150"/> 
   </a>
   <a href="https://badges.suse.com/de7186b8-db96-4335-8a25-4b14eab00abb" target="_blank" rel="noreferrer">
-    <img src="https://templates.images.credential.net/16678520957025956545091338834374.png" alt="SCDSRP" width="150" height="150"/> 
+    <img src="https://images.credential.net/y0o6dhxv_1695898365016_badge.png" alt="SCDSRP" width="150" height="150"/> 
   </a>
 </p>
 
