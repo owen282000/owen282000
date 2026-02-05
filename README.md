@@ -42,10 +42,13 @@
     <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="150" height="150"/> 
   </a>
   <a href="https://www.credly.com/badges/e10f98c5-ef97-4d3d-a57c-907c82d0dbe3" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD" width="150" height="150"/> 
+    <img src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png" alt="CKAD" width="150" height="150"/> 
   </a>
   <a href="https://www.credly.com/badges/4ddb3e09-a2df-413d-8a31-d955219c41de" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ900" width="150" height="150"/> 
+  </a>
+  <a href="https://www.credly.com/users/owen-vogelaar/badges#other" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/ef6de030-93e2-4af2-b480-4bbaf061041d/converted20251204-31-ozg3wi.png" alt="AZ104" width="150" height="150"/> 
   </a>
   <a href="https://badges.suse.com/5c85e08e-e8dc-442b-9294-2835162d3992#gs.05ttik" target="_blank" rel="noreferrer">
     <img src="https://templates.images.credential.net/16745082569063324999142236329766.png" alt="SCARA" width="150" height="150"/> 
