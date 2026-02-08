@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
 <h3 align="center">A (Linux) DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **Terraform**
-
 - 💬 Ask me about **Ansible, K8S, AWX and Python**
 
 <h3 align="left">Connect with me:</h3>
