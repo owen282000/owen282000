@@ -6,17 +6,17 @@
 - 🤖 Automating everything with Ansible (RHCA in Ansible) on a Red Hat / SUSE Rancher foundation
 - 💬 Ask me about **Ansible, Kubernetes and AWX**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/owen-vogelaar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owen-vogelaar" height="30" width="40" />
 </a>
 </p>
 
-<h3 align="left">Certifications:</h3>
+<h3 align="center">Certifications:</h3>
 
 <!-- Red Hat: RHCSA, RHCE (EL + Ansible), RHCA (EL + Ansible) -->
-<p align="left">
+<p align="center">
   <a href="https://www.credly.com/badges/bc0d4ca3-344c-4c86-8786-0c799bb67bfa" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/340x340/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="RHCSA" width="130" height="130"/>
   </a>
@@ -35,7 +35,7 @@
 </p>
 
 <!-- Red Hat specialist modules (5) -->
-<p align="left">
+<p align="center">
   <a href="https://www.credly.com/badges/8e980218-0f25-4260-8def-669d75b861d8" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/340x340/images/5bf013c6-fcb7-40cf-94d8-79a2320fee5f/image.png" alt="RHCS Developing Automation with AAP" width="130" height="130"/>
   </a>
@@ -54,7 +54,7 @@
 </p>
 
 <!-- RHCSA in OpenShift + Azure (900, 104) -->
-<p align="left">
+<p align="center">
   <a href="https://www.credly.com/badges/3cffe73f-f290-4a5e-a4c7-60a99659abe8" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/340x340/images/e7a34dc0-feb1-44a1-b8e7-3f825faf1c8e/blob" alt="RHCSA in OpenShift" width="130" height="130"/>
   </a>
@@ -69,7 +69,7 @@
 </p>
 
 <!-- Kubernetes: CKA, CKAD, KCNA -->
-<p align="left">
+<p align="center">
   <a href="https://www.credly.com/badges/ba616c76-c16d-4638-9b76-dceb74eedd23" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="130" height="130"/>
   </a>
@@ -84,7 +84,7 @@
 </p>
 
 <!-- SUSE Rancher -->
-<p align="left">
+<p align="center">
   <a href="https://badges.suse.com/" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/e103390b-4477-455f-995b-315fde95eb2b/be8fd28c-ec7b-4afb-a1f8-fa10332f3337_cached_image_20260612-33-r4ayny.png" alt="SCDS in SUSE Rancher and Kubernetes Distributions" width="130" height="130"/>
   </a>
@@ -100,8 +100,8 @@
   <img src="https://raw.githubusercontent.com/owen282000/owen282000/main/.github/spacer.svg" alt="" width="130" height="130"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
@@ -152,8 +152,8 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=owen282000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="owen282000 github stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owen282000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="owen282000 top languages" height="165"/>
 </p>
