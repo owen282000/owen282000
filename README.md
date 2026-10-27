@@ -16,6 +16,8 @@
 Health Connect and Apple Health from your phone to Home Assistant, MQTT, your own webhook or a self-hosted Grafana stack. No account, no cloud in between, no analytics.
 
 <p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.owen282000.lifedashboard&referrer=utm_source%3Dgh-profile%26utm_medium%3Dreadme"><img src="assets/badges/google-play.png" alt="Get it on Google Play" height="48"></a>
+  &nbsp;
   <a href="https://apps.apple.com/app/apple-store/id6824075761?pt=128699800&ct=gh-profile&mt=8"><img src="https://raw.githubusercontent.com/owen282000/life-dashboard-companion-app-ios/main/docs/badges/app-store.png" alt="Download on the App Store" height="48"></a>
   &nbsp;
   <a href="https://f-droid.org/packages/com.owen282000.lifedashboard/"><img src="assets/badges/f-droid.svg" alt="Get it on F-Droid" height="48"></a>
@@ -25,7 +27,7 @@ Health Connect and Apple Health from your phone to Home Assistant, MQTT, your ow
 
 | Part | What it does |
 |:--|:--|
-| **[Android](https://github.com/owen282000/life-dashboard-companion-app)** | Health Connect and screen time per app, from Samsung Health, Fitbit, Garmin, Oura and more. From GitHub, Obtainium or F-Droid. |
+| **[Android](https://github.com/owen282000/life-dashboard-companion-app)** | Health Connect and screen time per app, from Samsung Health, Fitbit, Garmin, Oura and more. On Google Play, €4.99 once, or free from GitHub, Obtainium or F-Droid. |
 | **[iPhone](https://github.com/owen282000/life-dashboard-companion-app-ios)** | Apple Health and your Apple Watch, with the same payload. On the App Store, €6.99 once, no subscription. |
 | **[Home Assistant](https://github.com/owen282000/life-dashboard-ha)** | An integration in the default HACS list: pair with one QR code, every day lands in long-term statistics. |
 | **[Self-hosted stack](https://github.com/owen282000/life-dashboard-stack)** | Postgres and Grafana with ready-made dashboards, and an MCP server so the AI you choose can read your history. |
@@ -62,4 +64,4 @@ Ask me about **Ansible, Kubernetes and AWX**.
 
 <br>
 
-<p align="center"><sub>Apple, the Apple logo and App Store are trademarks of Apple Inc., registered in the U.S. and other countries.</sub></p>
+<p align="center"><sub>Google Play and the Google Play logo are trademarks of Google LLC. Apple, the Apple logo and App Store are trademarks of Apple Inc., registered in the U.S. and other countries.</sub></p>
